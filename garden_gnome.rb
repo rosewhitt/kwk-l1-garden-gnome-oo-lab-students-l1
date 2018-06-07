@@ -33,8 +33,4 @@ class GardenGnome
     @gluten_allergy
   end
 
-  def hat_color=(hat_color)
-    @hat_color = hat_color
-  end
-
 end
