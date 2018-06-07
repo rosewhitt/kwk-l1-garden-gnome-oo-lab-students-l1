@@ -42,4 +42,3 @@ class GardenGnome
 
 end
 
-puts hat_color.new
