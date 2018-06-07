@@ -1,6 +1,6 @@
 class GardenGnome
 
-  def initialize 
+  def initialize(personality="evil")
     @personality
   end
 
