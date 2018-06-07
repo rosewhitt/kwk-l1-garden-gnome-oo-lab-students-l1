@@ -1,13 +1,13 @@
 class GardenGnome
 
-  def initialize (personality)
+  def initialize 
     @personality = "evil"
   end
 
   def personality
     @personality
   end
-  
+
   def name=(name)
     @name = name
   end
