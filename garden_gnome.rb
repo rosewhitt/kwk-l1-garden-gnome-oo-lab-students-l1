@@ -41,4 +41,3 @@ class GardenGnome
   end
 
 end
-
