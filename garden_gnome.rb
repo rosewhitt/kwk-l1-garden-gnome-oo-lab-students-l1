@@ -1,6 +1,6 @@
 class GardenGnome
 
-  def initialize
+  def initialize(hat_color)
     @personality = "evil"
   end
 
@@ -32,4 +32,14 @@ class GardenGnome
     @gluten_allergy
   end
 
+  def hat_color=(hat_color)
+    @hat_color = hat_color
+  end
+
+  def hat_color
+    @hat_color
+  end
+
 end
+
+hat_color.new
